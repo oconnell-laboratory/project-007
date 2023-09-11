@@ -1,0 +1,12 @@
+Sample_ID,Age,Race,Ethnicity,Diabetes,Neutrophil_count,Lymphocyte_count,Monocyte_count,Eosinophil_count,…
+HS_WB_0001,59,White,Not_hispanic,Yes,0.716,0.198,0.062,0.012,
+HS_WB_0002,72,Asian,Not_hispanic,No,0.637,0.277,0.064,0.021,
+HS_WB_0003,63,White,Hispanic,No,0.615,0.256,0.09,0.038,
+HS_WB_0004,40,White,Not_hispanic,No,0.65,0.233,0.081,0.035,
+HS_WB_0005,74,White,Hispanic,No,0.831,0.113,0.049,0.003,
+HS_WB_0006,53,Black_or_AA,Not_hispanic,No,0.361,0.574,0.059,0.005,
+HS_WB_0007,31,White,Hispanic,No,0.798,0.135,0.058,0.002,
+HS_WB_0008,88,White,Not_hispanic,No,0.857,0.041,0.051,0.004,
+HS_WB_0009,49,White,Hispanic,Yes,0.531,0.362,0.085,0.021,
+HS_WB_0010,65,Black_or_AA,Not_hispanic,No,0.208,0.434,0.302,0.019,
+…,,,,,,,,,
